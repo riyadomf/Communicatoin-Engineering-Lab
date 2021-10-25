@@ -11,8 +11,8 @@ Lab codes of topics covered by Data Communications and Networking by Behrouz A. 
   [2.1) Pulse Code Modulation](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/8730e8655a1c8aee4c9670a0331be1409a9ffe3b/Analog%20to%20Digital%20conversion%20-%20Pulse%20Code%20Modulation/Pulse_Code_Modulation.ipynb)  
 
 3) Digital to Digital conversion  
-  [3.1) Line coding](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/8730e8655a1c8aee4c9670a0331be1409a9ffe3b/Digital%20to%20Digital%20conversion%20-%20Line%20coding,%20Block%20coding/Line_coding.ipynb)  
-  [3.2) Block coding](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/8730e8655a1c8aee4c9670a0331be1409a9ffe3b/Digital%20to%20Digital%20conversion%20-%20Line%20coding,%20Block%20coding/Block_coding.ipynb)
+  [3.1) Line coding](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/636daf1b754793c65c68ba8ba9523f7fac28c711/Digital%20to%20Digital%20conversion%20-%20Line%20coding,%20Block%20coding/Line_coding.ipynb)  
+  [3.2) Block coding](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/636daf1b754793c65c68ba8ba9523f7fac28c711/Digital%20to%20Digital%20conversion%20-%20Line%20coding,%20Block%20coding/Block_coding.ipynb)
 
 4) Digital to Analog conversion  
   [4.1) Amplitude Shift Keying](https://github.com/riyadomf/Communicatoin-Engineering-Lab/blob/8730e8655a1c8aee4c9670a0331be1409a9ffe3b/Digital%20to%20Analog%20conversion%20-%20ASK,%20FSK,%20PSK/Amplitude_Shift_keying.ipynb)  
